@@ -20,8 +20,7 @@ Implemented and Improved various Image Processing algorithms -
 17. Geometric Transformations
 18. Image Denoising
 19. Vintage, Matrix, Vignette and Duo-tone effects
-20. Finding number of components in an image without manually counting
-21. Gaussian point spread function
-22. Huffman encoding and decoding
-
+20. Gaussian point spread function
+21. Huffman encoding and decoding
+22. Finding number of components in an image without manually counting
 
